@@ -1,10 +1,10 @@
-# School_District_Analysis# PyBer_Analysis
+# School_District_Analysis
 
 Tyrone Fraley,
 UC Berkley Extension,
 August 31, 2022
 
-## Project: Student Data
+## Student Data
 
 <p align="center">
   <img width="460" height="300" src="Education.jpeg">
